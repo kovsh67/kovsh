@@ -20,4 +20,6 @@ valo.cdw - карданный вал. Крепится с одной сторо�
 ![Выглядит так:](https://github.com/kovsh67/kovsh/blob/main/valo.jpg)
 
 kovsh.cdw - сам ковш, крепится к 6.cdw (печатается на 3д-принтере).
-![Выглядит так:](https://github.com/kovsh67/kovsh/blob/main/kovsh.jpg)
+![Выглядит так:](https://github.com/kovsh67/kovsh/blob/main/kovsh.png)
+
+![В итоге сборка выглядит так:](https://github.com/kovsh67/kovsh/blob/main/sborka.jpg)
